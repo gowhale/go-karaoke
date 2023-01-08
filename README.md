@@ -1,4 +1,4 @@
-# golang-repo-template
+# github.com/gowhale/go-karaoke
 A template for all my future Go projects!
 
 ## Actions created by this template:

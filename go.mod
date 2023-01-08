@@ -1,4 +1,4 @@
-module golang-repo-template
+module github.com/gowhale/go-karaoke
 
 go 1.17
 
