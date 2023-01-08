@@ -21,8 +21,9 @@ const (
 )
 
 var excludedPkgs = map[string]bool{
-	"github.com/gowhale/go-karaoke":           true,
-	"github.com/gowhale/go-karaoke/pkg/fruit": true,
+	"github.com/gowhale/go-karaoke":            true,
+	"github.com/gowhale/go-karaoke/pkg/fruit":  true,
+	"github.com/gowhale/go-karaoke/pkg/config": true,
 }
 
 func main() {
